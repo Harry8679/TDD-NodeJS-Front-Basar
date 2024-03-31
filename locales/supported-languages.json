@@ -1,0 +1,22 @@
+[
+	{
+		"language": "en",
+		"flag": "https://www.worldometers.info//img/flags/small/tn_us-flag.gif"
+	},
+	{
+		"language": "tr",
+		"flag": "https://www.worldometers.info//img/flags/small/tn_tu-flag.gif"
+  	},
+	{
+		"language": "fr",
+		"flag": "https://www.worldometers.info//img/flags/small/tn_fr-flag.gif"
+	},
+	{
+		"language": "de",
+		"flag": "https://www.worldometers.info//img/flags/small/tn_gm-flag.gif"
+	},
+	{
+		"language": "es",
+		"flag": "https://www.worldometers.info//img/flags/small/tn_sp-flag.gif"
+	}
+]
