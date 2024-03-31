@@ -6,7 +6,7 @@
   "Password": "Mot de passe",
   "Password Repeat": "Confirmer votre mot de passe",
   "E-mail verification failure": "Echec de la vérification de l'email",
-  "Activation E-mail sent": "An account activation e-mail is sent to {{address}}",
+  "Activation E-mail sent": "Un e-mail d'activation de compte est envoyé à {{address}}",
   "Login": "Connexion",
   "Account activation failure": "Echec de l'activation de votre compte",
   "Activation in progress": "Activation en cours",
